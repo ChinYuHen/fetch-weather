@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Activity 12: Fetch Weather",
+    "slug": "activity-11-fetch-weather",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.telebort.activity07fetchweather"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.telebort.activity07fetchweather"
+    },
+    "web": {}
+  }
+}
